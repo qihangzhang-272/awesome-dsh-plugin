@@ -1,0 +1,6 @@
+url: https://github.com/qihangzhang-272/dsh-asl
+name: qihangzhang-272/dsh-asl
+category: skill
+description:
+  en: 'A Mode and Skill workspace with editable Mermaid diagrams, a full file tree, Markdown editing and native DeepSeek writes through a shared tool. Requires an existing ASL Harness core and Environment with local path configuration; verified on Windows DSH.'
+  zh: '以 Mode 组织技能的工作区，支持可编辑 Mermaid、完整文件树、Markdown 编辑和原生 DeepSeek 共享工具写回。需要已有 ASL Harness 核心、Environment 与本地路径配置；已在 Windows DSH 验收。'
